@@ -1,0 +1,39 @@
+.text {
+  padding-top: 12px;
+  font-size: 1.125rem;
+  line-height: 1.5rem;
+}
+
+.share {
+  padding: 20px;
+}
+
+.share-icon {
+  height: 32px;
+  cursor: pointer;
+}
+.loading {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #000000;
+  color: #ff0000;
+  width: 100vw;
+  height: 100vh;
+}
+
+.loading .title {
+  font-size: 2rem;
+}
+
+.container-main {
+  color: #000000;
+  background-color: #f0f8ff;
+}
+.container-main .title {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 0px 20px 10px 20px;
+  font-size: 2rem;
+}
